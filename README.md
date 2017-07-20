@@ -1,4 +1,4 @@
-# Hackathon
+# Eye4cash
 
 hson_ImageDataGenerator:
 Generate multi images from an image by keras

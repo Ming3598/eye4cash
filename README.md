@@ -22,3 +22,7 @@ model type:Alexnet
 
 Tensorboard:
 ![image](https://github.com/Ming3598/eye4cash/blob/master/screenshot/tensorboard.jpg?raw=true)
+
+#cash4eye:
+
+Script for demo and test!

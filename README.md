@@ -21,7 +21,7 @@ testfile=test file path
 model type:Alexnet
 
 Tensorboard:
-![image](https://github.com/Ming3598/eye4cash/blob/master/screenshot/tensorboard.jpg?raw=true)
+![image](DR_Sample_Codes_for_Training/samplecode/batch_data_generator/format.png?raw=true)
 
 # cash4eye:
 
